@@ -2,7 +2,13 @@
 
 ## **My 42's Projects:**
 
-Cub3d
+<table border="0">
+ <tr>
+    <td><b style="font-size:30px">My 42's Projects:</b></td>
+    <td><b style="font-size:30px">Title 2</b></td>
+ </tr>
+ <tr>
+    <td>Cub3d
 Final Score:
 [![Sherchryst's Cub3d Score](https://badge42.herokuapp.com/api/project/sgah/cub3d)](https://github.com/sherchryst/cub3d)
 
@@ -44,7 +50,12 @@ Final Score:
 
 Libft
 Final Score:
-[![Sherchryst's libft Score](https://badge42.herokuapp.com/api/project/sgah/Libft)](https://github.com/sherchryst/libft)
+[![Sherchryst's libft Score](https://badge42.herokuapp.com/api/project/sgah/Libft)](https://github.com/sherchryst/libft)</td>
+    <td>Lorem ipsum ...</td>
+ </tr>
+</table>
+
+
 
 <!--
 **Sherchryst/sherchryst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
