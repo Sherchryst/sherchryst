@@ -55,7 +55,7 @@ Final Score:
     <td>
   
      
-     ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)
+     ![C](https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg)
      
      ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
      
