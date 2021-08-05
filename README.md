@@ -2,10 +2,6 @@
 
 Projects done at 42 till now:
 
-CPP Module 08
-Final Score:
-[![Sherchryst's CPP Module 08 Score](https://badge42.herokuapp.com/api/project/sgah/piscineCPP)](https://github.com/sherchryst/42-piscine_CPP)
-
 Cub3d
 Final Score:
 [![Sherchryst's Cub3d Score](https://badge42.herokuapp.com/api/project/sgah/cub3d)](https://github.com/sherchryst/cub3d)
