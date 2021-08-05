@@ -9,9 +9,11 @@
  </tr>
  <tr>
     <td>
-MiniShell
+     
+     
+Cub3d
 Final Score:
-[![Sherchryst's Minishell Score](https://badge42.herokuapp.com/api/project/sgah/minishell)](https://github.com/sherchryst/minishell)
+[![Sherchryst's Cub3d Score](https://badge42.herokuapp.com/api/project/sgah/cub3d)](https://github.com/sherchryst/cub3d)
 
 MiniShell
 Final Score:
