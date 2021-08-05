@@ -8,7 +8,8 @@
     <td><b style="font-size:30px">Title 2</b></td>
  </tr>
  <tr>
-    <td>Cub3d
+    <td>
+Cub3d
 Final Score:
 [![Sherchryst's Cub3d Score](https://badge42.herokuapp.com/api/project/sgah/cub3d)](https://github.com/sherchryst/cub3d)
 
