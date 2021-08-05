@@ -1,4 +1,4 @@
-[![Sherchryst's 42 stats](https://badge42.herokuapp.com/api/stats/sgah)](https://github.com/JaeSeoKim/badge42)
+[![Sherchryst's 42 stats](https://badge42.herokuapp.com/api/stats/sgah?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
 
 ## **My 42's Projects:**
 
