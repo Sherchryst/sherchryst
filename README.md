@@ -57,7 +57,7 @@ Final Score:
     <td>
   
      
-     <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="48">
+   ![Shell](https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg)
    ![c](https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg)
    ![docker](https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg)
    ![c++](https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg)
