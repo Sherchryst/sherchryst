@@ -8,7 +8,7 @@ Final Score:
 
 Philosophers
 Final Score:
-[![Sherchryst's Philosophers Score](https://badge42.herokuapp.com/api/project/sgah/philosophers)](https://github.com/sherchryst/philosophers)
+[![Sherchryst's Philosophers Score](https://badge42.herokuapp.com/api/project/sgah/Philosophers)](https://github.com/sherchryst/philosopher)
 
 Ft_services
 Final Score:
