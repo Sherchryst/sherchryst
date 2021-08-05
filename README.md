@@ -1,6 +1,8 @@
 [![Sherchryst's 42 stats](https://badge42.herokuapp.com/api/stats/sgah?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
 
-<table border="0">
+<table class="fixed">
+ <col width="40px" />
+ <col width="40px" />
  <tr>
     <td><b style="font-size:30px">My 42's Projects:</b></td>
     <td><b style="font-size:30px">Tech Stack</b></td>
@@ -55,7 +57,7 @@ Final Score:
     <td>
   
      
-   ![Shell](https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg =250x250)
+   ![Shell](https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg)
    ![c](https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg)
    ![dart](https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg)
    ![docker](https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg)
