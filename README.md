@@ -1,11 +1,9 @@
 [![Sherchryst's 42 stats](https://badge42.herokuapp.com/api/stats/sgah?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
 
-## **My 42's Projects:**
-
 <table border="0">
  <tr>
     <td><b style="font-size:30px">My 42's Projects:</b></td>
-    <td><b style="font-size:30px">Title 2</b></td>
+    <td><b style="font-size:30px">Tech Stack</b></td>
  </tr>
  <tr>
     <td>
@@ -54,7 +52,15 @@ Final Score:
 Libft
 Final Score:
 [![Sherchryst's libft Score](https://badge42.herokuapp.com/api/project/sgah/Libft)](https://github.com/sherchryst/libft)</td>
-    <td>Lorem ipsum ...</td>
+    <td>
+  
+     
+     ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+     
+     ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+     
+     ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+  </td>
  </tr>
 </table>
 
