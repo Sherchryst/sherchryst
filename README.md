@@ -6,6 +6,10 @@ Cub3d
 Final Score:
 [![Sherchryst's Cub3d Score](https://badge42.herokuapp.com/api/project/sgah/cub3d)](https://github.com/sherchryst/cub3d)
 
+MiniShell
+Final Score:
+[![Sherchryst's Minishell Score](https://badge42.herokuapp.com/api/project/sgah/minishell)](https://github.com/sherchryst/minishell)
+
 Philosophers
 Final Score:
 [![Sherchryst's Philosophers Score](https://badge42.herokuapp.com/api/project/sgah/Philosophers)](https://github.com/sherchryst/philosopher)
