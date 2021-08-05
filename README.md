@@ -18,13 +18,17 @@ Liasm
 Final Score:
 [![Sherchryst's libasm Score](https://badge42.herokuapp.com/api/project/sgah/libasm)](https://github.com/sherchryst/libasm)
 
+Push_swap
+Final Score:
+[![Sherchryst's push_swap Score](https://badge42.herokuapp.com/api/project/sgah/push_swap)](https://github.com/sherchryst/push_swap)
+
+Minitalk
+Final Score:
+[![Sherchryst's Minitalk Score](https://badge42.herokuapp.com/api/project/sgah/minitalk)](https://github.com/sherchryst/minitalk)
+
 Ft_server
 Final Score:
 [![Sherchryst's ft-server Score](https://badge42.herokuapp.com/api/project/sgah/ft_server)](https://github.com/sherchryst/ft-server)
-
-push_swap
-Final Score:
-[![Sherchryst's push_swap Score](https://badge42.herokuapp.com/api/project/sgah/push_swap)](https://github.com/sherchryst/push_swap)
 
 Printf
 Final Score:
