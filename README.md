@@ -18,6 +18,10 @@ Ft_server
 Final Score:
 [![Sherchryst's ft-server Score](https://badge42.herokuapp.com/api/project/sgah/ft_server)](https://github.com/uchiha21itachi/ft-server)
 
+push_swap
+Final Score:
+[![Sherchryst's push-swap Score](https://badge42.herokuapp.com/api/project/sgah/push-swap)](https://github.com/uchiha21itachi/push-swap)
+
 Printf
 Final Score:
 [![Sherchryst's ft-printf Score](https://badge42.herokuapp.com/api/project/sgah/ft_printf)](https://github.com/uchiha21itachi/printf)
