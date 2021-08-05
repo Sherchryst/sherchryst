@@ -27,7 +27,7 @@ Ft_services
 Final Score:
 [![Sherchryst's ft_services Score](https://badge42.herokuapp.com/api/project/sgah/ft_services)](https://github.com/sherchryst/ft_services)
 
-Liasm
+Libasm
 Final Score:
 [![Sherchryst's libasm Score](https://badge42.herokuapp.com/api/project/sgah/libasm)](https://github.com/sherchryst/libasm)
 
@@ -57,9 +57,8 @@ Final Score:
     <td>
   
      
-   ![Shell](https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg)
+     <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="48">
    ![c](https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg)
-   ![dart](https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg)
    ![docker](https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg)
    ![c++](https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg)
    ![Kubernetes](https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg)
