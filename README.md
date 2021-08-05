@@ -55,7 +55,12 @@ Final Score:
     <td>
   
      
-![C](https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg)
+   ![Shell](https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg)
+   ![c](https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg)
+   ![dart](https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg)
+   ![docker](https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg)
+   ![c++](https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg)
+   ![Kubernetes](https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg)
      
      
   </td>
