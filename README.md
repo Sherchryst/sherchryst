@@ -55,7 +55,7 @@ Final Score:
     <td>
   
      
-   ![Shell](https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg)
+   ![Shell](https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg =250x250)
    ![c](https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg)
    ![dart](https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg)
    ![docker](https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg)
