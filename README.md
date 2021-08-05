@@ -6,6 +6,10 @@ Cub3d
 Final Score:
 [![Sherchryst's Cub3d Score](https://badge42.herokuapp.com/api/project/sgah/cub3d)](https://github.com/sherchryst/cub3d)
 
+Philosophers
+Final Score:
+[![Sherchryst's Philosophers Score](https://badge42.herokuapp.com/api/project/sgah/philosophers)](https://github.com/sherchryst/philosophers)
+
 Ft_services
 Final Score:
 [![Sherchryst's ft_services Score](https://badge42.herokuapp.com/api/project/sgah/ft_services)](https://github.com/sherchryst/ft_services)
@@ -20,7 +24,7 @@ Final Score:
 
 push_swap
 Final Score:
-[![Sherchryst's push-swap Score](https://badge42.herokuapp.com/api/project/sgah/push_swap)](https://github.com/sherchryst/push_swap)
+[![Sherchryst's push_swap Score](https://badge42.herokuapp.com/api/project/sgah/push_swap)](https://github.com/sherchryst/push_swap)
 
 Printf
 Final Score:
