@@ -1,6 +1,10 @@
 [![Sherchryst's 42 stats](https://badge42.herokuapp.com/api/stats/sgah?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
+
+ <head>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
+  </head>
+  <body>
 <table border="0">
  <tr>
     <td><b style="font-size:30px">My 42's Projects:</b></td>
@@ -57,9 +61,12 @@ Final Score:
   
      
      <i class="devicon-c-plain"></i>
+     
+     
   </td>
  </tr>
 </table>
+ </body>
 
 
 
