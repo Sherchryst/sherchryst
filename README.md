@@ -1,6 +1,6 @@
 [![Sherchryst's 42 stats](https://badge42.herokuapp.com/api/stats/sgah)](https://github.com/JaeSeoKim/badge42)
 
-Projects done at 42 till now:
+## Projects done at 42 till now:
 
 Cub3d
 Final Score:
