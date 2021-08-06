@@ -57,7 +57,7 @@ Final Score:
  </tr>
 </table>
 
-![image](https://github.com/Sherchryst/sherchryst/blob/main/ISO_C%2B%2B_Logo.svg) ![image](https://github.com/Sherchryst/sherchryst/blob/main/bash-original.svg) ![image](https://github.com/Sherchryst/sherchryst/blob/main/c-original.svg) ![image](https://github.com/Sherchryst/sherchryst/blob/main/docker-original.svg) ![image](https://github.com/Sherchryst/sherchryst/blob/main/kubernetes-plain-wordmark.svg)
+![image](https://github.com/Sherchryst/sherchryst/blob/main/ISO_C%2B%2B_Logo.svg) <img src="https://github.com/Sherchryst/sherchryst/blob/main/bash-original.svg" width="100" height="100"> ![image](https://github.com/Sherchryst/sherchryst/blob/main/c-original.svg) ![image](https://github.com/Sherchryst/sherchryst/blob/main/docker-original.svg) ![image](https://github.com/Sherchryst/sherchryst/blob/main/kubernetes-plain-wordmark.svg)
 
 
 
