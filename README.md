@@ -3,39 +3,17 @@
 | 42's Project | Tech Stack |
 | ------- | ------ |
 | Cub3d Final Score: [![Sherchryst's Cub3d Score](https://badge42.herokuapp.com/api/project/sgah/cub3d)](https://github.com/sherchryst/cub3d) | <img src="https://github.com/Sherchryst/sherchryst/blob/main/c-original.svg" width="30" height="30"> |
-| [Philosophers] | ![Philosophers score](https://badge42.herokuapp.com/api/project/lucocozz/Philosophers) |
-| [fract-ol] | ![fract-ol score](https://badge42.herokuapp.com/api/project/lucocozz/fract-ol) |
-| [minitalk] | ![minitalk score](https://badge42.herokuapp.com/api/project/lucocozz/minitalk) |
-| [libasm] | ![libasm score](https://badge42.herokuapp.com/api/project/lucocozz/libasm) |
-| [push_swap] | ![push_swap score](https://badge42.herokuapp.com/api/project/lucocozz/push_swap) |
+| Piscine CPP Final Score: [![Sherchryst's Piscine CPP Score](https://badge42.herokuapp.com/api/project/sgah/minishell)](https://github.com/sherchryst/42-piscine_CPP)| <img src="https://github.com/Sherchryst/sherchryst/blob/main/ISO_C%2B%2B_Logo.svg" width="30" height="30"> |
+| MiniShell Final Score: [![Sherchryst's Minishell Score](https://badge42.herokuapp.com/api/project/sgah/minishell)](https://github.com/sherchryst/minishell) | <img src="https://github.com/Sherchryst/sherchryst/blob/main/c-original.svg" width="30" height="30"> |
+| Philosophers Final Score: [![Sherchryst's Philosophers Score](https://badge42.herokuapp.com/api/project/sgah/Philosophers)](https://github.com/sherchryst/philosopher)| <img src="https://github.com/Sherchryst/sherchryst/blob/main/c-original.svg" width="30" height="30"> |
+| Ft_services Final Score: [![Sherchryst's ft_services Score](https://badge42.herokuapp.com/api/project/sgah/ft_services)](https://github.com/sherchryst/ft_services)| <img src="https://github.com/Sherchryst/sherchryst/blob/main/docker-original.svg" width="30" height="30"> <img src="https://github.com/Sherchryst/sherchryst/blob/main/kubernetes-plain-wordmark.svg" width="30" height="30"> <img src="https://github.com/Sherchryst/sherchryst/blob/main/bash-original.svg" width="30" height="30"> |
+| Libasm Final Score: [![Sherchryst's libasm Score](https://badge42.herokuapp.com/api/project/sgah/libasm)](https://github.com/sherchryst/libasm) | <img src="https://i.pinimg.com/originals/8c/b1/8c/8cb18c72082d13eb581cf6d452e8e266.png" width="30" height="30"> |
 | [ft_server] | ![ft-server score](https://badge42.herokuapp.com/api/project/lucocozz/ft_server) |
 | [ft_printf] | ![ft-printf score](https://badge42.herokuapp.com/api/project/lucocozz/ft_printf) |
 | [get_next_line] | ![get_next_line score](https://badge42.herokuapp.com/api/project/lucocozz/get_next_line) |
 | [libft] | ![libft score](https://badge42.herokuapp.com/api/project/lucocozz/Libft) |
-     
-Cub3d
-Final Score:
-[![Sherchryst's Cub3d Score](https://badge42.herokuapp.com/api/project/sgah/cub3d)](https://github.com/sherchryst/cub3d)
-     
-Piscine CPP
-Final Score:
-[![Sherchryst's Piscine CPP Score](https://badge42.herokuapp.com/api/project/sgah/minishell)](https://github.com/sherchryst/42-piscine_CPP)
-         
-MiniShell
-Final Score:
-[![Sherchryst's Minishell Score](https://badge42.herokuapp.com/api/project/sgah/minishell)](https://github.com/sherchryst/minishell)
-         
-Philosophers
-Final Score:
-[![Sherchryst's Philosophers Score](https://badge42.herokuapp.com/api/project/sgah/Philosophers)](https://github.com/sherchryst/philosopher)
-         
-Ft_services
-Final Score:
-[![Sherchryst's ft_services Score](https://badge42.herokuapp.com/api/project/sgah/ft_services)](https://github.com/sherchryst/ft_services)
-         
-Libasm
-Final Score:
-[![Sherchryst's libasm Score](https://badge42.herokuapp.com/api/project/sgah/libasm)](https://github.com/sherchryst/libasm)
+
+        
          
 Push_swap
 Final Score:
