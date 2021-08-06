@@ -5,7 +5,7 @@
  <col width="40px" />
  <tr>
     <td><b style="font-size:30px">My 42's Projects:</b></td>
-    <td><b style="font-size:30px">mastered tech:</b></td>
+    <td><b style="font-size:30px">Tech stack:</b></td>
  </tr>
  <tr>
     <td>
@@ -54,21 +54,18 @@ Libft
 Final Score:
 [![Sherchryst's libft Score](https://badge42.herokuapp.com/api/project/sgah/Libft)](https://github.com/sherchryst/libft)</td>
       
-<td> <p><img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="100" height="100"> </p>
-<p><img src="https://github.com/Sherchryst/sherchryst/blob/main/bash-original.svg" width="100" height="100"></p>
+<td> <p><img src="https://github.com/Sherchryst/sherchryst/blob/main/bash-original.svg" width="100" height="100"></p>
 <p><img src="https://github.com/Sherchryst/sherchryst/blob/main/docker-original.svg" width="100" height="100"></p>
 <p><img src="https://github.com/Sherchryst/sherchryst/blob/main/kubernetes-plain-wordmark.svg" width="100" height="100"></p>
 <p><img src="https://github.com/Sherchryst/sherchryst/blob/main/ISO_C%2B%2B_Logo.svg" width="100" height="100"></p>
-<p><img src="https://github.com/Sherchryst/sherchryst/blob/main/c-original.svg" width="100" height="100"> </p>
-<p><img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="100" height="100"></p>
-<p><img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" width="100" height="100"></p></td>
+<p><img src="https://github.com/Sherchryst/sherchryst/blob/main/c-original.svg" width="100" height="100"> </p></td>
  </tr>
 </table>
 
 
 # mastered tech
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="100" height="100"> <img src="https://github.com/Sherchryst/sherchryst/blob/main/bash-original.svg" width="100" height="100"> <img src="https://github.com/Sherchryst/sherchryst/blob/main/docker-original.svg" width="100" height="100"> <img src="https://github.com/Sherchryst/sherchryst/blob/main/kubernetes-plain-wordmark.svg" width="100" height="100"> <img src="https://github.com/Sherchryst/sherchryst/blob/main/ISO_C%2B%2B_Logo.svg" width="100" height="100"> <img src="https://github.com/Sherchryst/sherchryst/blob/main/c-original.svg" width="100" height="100"> <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="100" height="100"> <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" width="100" height="100"> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="100" height="100"> <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="100" height="100"> <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" width="100" height="100"> 
 
 
 
