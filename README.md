@@ -16,7 +16,7 @@ Final Score:
      
 Piscine CPP
 Final Score:
-[![Sherchryst's Piscine CPP Score](https://badge42.herokuapp.com/api/project/sgah/cpp-module-07)](https://github.com/sherchryst/cub3d)
+[![Sherchryst's Piscine CPP Score](https://badge42.herokuapp.com/api/project/sgah/minishell)](https://github.com/sherchryst/42-piscine_CPP)
          
 MiniShell
 Final Score:
