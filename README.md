@@ -14,14 +14,6 @@
 | Printf Final Score: [![Sherchryst's ft-printf Score](https://badge42.herokuapp.com/api/project/sgah/ft_printf)](https://github.com/sherchryst/printf) | <img src="https://github.com/Sherchryst/sherchryst/blob/main/c-original.svg" width="30" height="30"> <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-plain.svg" width="30" height="30">  |
 | Get_next_line Final Score: [![Sherchryst's get_next_line Score](https://badge42.herokuapp.com/api/project/sgah/get_next_line)](https://github.com/sherchryst/get_next_line) | <img src="https://github.com/Sherchryst/sherchryst/blob/main/c-original.svg" width="30" height="30"> <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-plain.svg" width="30" height="30"> |
 | Libft Final Score: [![Sherchryst's libft Score](https://badge42.herokuapp.com/api/project/sgah/Libft)](https://github.com/sherchryst/libft) | <img src="https://github.com/Sherchryst/sherchryst/blob/main/c-original.svg" width="30" height="30"> <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-plain.svg" width="30" height="30"> |
-        
-        
-<img src="https://github.com/Sherchryst/sherchryst/blob/main/bash-original.svg" width="100" height="100">
-<img src="https://github.com/Sherchryst/sherchryst/blob/main/docker-original.svg" width="100" height="100">
-<img src="https://github.com/Sherchryst/sherchryst/blob/main/kubernetes-plain-wordmark.svg" width="100" height="100">
-<img src="https://github.com/Sherchryst/sherchryst/blob/main/ISO_C%2B%2B_Logo.svg" width="100" height="100">
-<img src="https://github.com/Sherchryst/sherchryst/blob/main/c-original.svg" width="100" height="100">
-
 
 ## mastered tech
 
