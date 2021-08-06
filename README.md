@@ -57,7 +57,7 @@ Final Score:
     <td>
   
      
-     <img src="bash-original.svg" width="100" height="100" />
+     <img src="/bash-original.svg" width="100" height="100" />
      
      <img src="c-original.svg" width="100" height="100" />
      
