@@ -54,7 +54,7 @@ Libft
 Final Score:
 [![Sherchryst's libft Score](https://badge42.herokuapp.com/api/project/sgah/Libft)](https://github.com/sherchryst/libft)</td>
       
-<td><img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="100" height="100"> 
+<td> <p><img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="100" height="100"> </p>
 <img src="https://github.com/Sherchryst/sherchryst/blob/main/bash-original.svg" width="100" height="100">
 <img src="https://github.com/Sherchryst/sherchryst/blob/main/docker-original.svg" width="100" height="100">
 <img src="https://github.com/Sherchryst/sherchryst/blob/main/kubernetes-plain-wordmark.svg" width="100" height="100">
