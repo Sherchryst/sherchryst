@@ -1,14 +1,6 @@
 [![Sherchryst's 42 stats](https://badge42.herokuapp.com/api/stats/sgah?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
 
-<table class="fixed">
- <col width="40px" />
- <col width="40px" />
- <tr>
-    <td><b style="font-size:30px">My 42's Projects:</b></td>
- </tr>
- <tr>
-    <td>
-     
+# My 42's Projects:
      
 Cub3d
 Final Score:
@@ -54,8 +46,6 @@ Libft
 Final Score:
 [![Sherchryst's libft Score](https://badge42.herokuapp.com/api/project/sgah/Libft)](https://github.com/sherchryst/libft)</td>
 
- </tr>
-</table>
 
 # mastered tech
 
