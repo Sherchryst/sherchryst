@@ -1,14 +1,19 @@
 [![Sherchryst's 42 stats](https://badge42.herokuapp.com/api/stats/sgah?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
 
-<table class="fixed">
- <col width="40px" />
- <col width="40px" />
- <tr>
-    <td><b style="font-size:30px">My 42's Projects:</b></td>
-    <td><b style="font-size:30px">Tech stack:</b></td>
- </tr>
- <tr>
-    <td>
+| 42's Project | Tech Stack |
+| ------- | ------ |
+| Cub3d
+Final Score:
+[![Sherchryst's Cub3d Score](https://badge42.herokuapp.com/api/project/sgah/cub3d)](https://github.com/sherchryst/cub3d) | <img src="https://github.com/Sherchryst/sherchryst/blob/main/c-original.svg" width="30" height="30"> |
+| [Philosophers] | ![Philosophers score](https://badge42.herokuapp.com/api/project/lucocozz/Philosophers) |
+| [fract-ol] | ![fract-ol score](https://badge42.herokuapp.com/api/project/lucocozz/fract-ol) |
+| [minitalk] | ![minitalk score](https://badge42.herokuapp.com/api/project/lucocozz/minitalk) |
+| [libasm] | ![libasm score](https://badge42.herokuapp.com/api/project/lucocozz/libasm) |
+| [push_swap] | ![push_swap score](https://badge42.herokuapp.com/api/project/lucocozz/push_swap) |
+| [ft_server] | ![ft-server score](https://badge42.herokuapp.com/api/project/lucocozz/ft_server) |
+| [ft_printf] | ![ft-printf score](https://badge42.herokuapp.com/api/project/lucocozz/ft_printf) |
+| [get_next_line] | ![get_next_line score](https://badge42.herokuapp.com/api/project/lucocozz/get_next_line) |
+| [libft] | ![libft score](https://badge42.herokuapp.com/api/project/lucocozz/Libft) |
      
 Cub3d
 Final Score:
@@ -56,15 +61,13 @@ Final Score:
          
 Libft
 Final Score:
-[![Sherchryst's libft Score](https://badge42.herokuapp.com/api/project/sgah/Libft)](https://github.com/sherchryst/libft)</td>
+[![Sherchryst's libft Score](https://badge42.herokuapp.com/api/project/sgah/Libft)](https://github.com/sherchryst/libft)
       
-<td> <p><img src="https://github.com/Sherchryst/sherchryst/blob/main/bash-original.svg" width="100" height="100"></p>
-<p><img src="https://github.com/Sherchryst/sherchryst/blob/main/docker-original.svg" width="100" height="100"></p>
-<p><img src="https://github.com/Sherchryst/sherchryst/blob/main/kubernetes-plain-wordmark.svg" width="100" height="100"></p>
-<p><img src="https://github.com/Sherchryst/sherchryst/blob/main/ISO_C%2B%2B_Logo.svg" width="100" height="100"></p>
-<p><img src="https://github.com/Sherchryst/sherchryst/blob/main/c-original.svg" width="100" height="100"> </p></td>
- </tr>
-</table>
+<img src="https://github.com/Sherchryst/sherchryst/blob/main/bash-original.svg" width="100" height="100">
+<img src="https://github.com/Sherchryst/sherchryst/blob/main/docker-original.svg" width="100" height="100">
+<img src="https://github.com/Sherchryst/sherchryst/blob/main/kubernetes-plain-wordmark.svg" width="100" height="100">
+<img src="https://github.com/Sherchryst/sherchryst/blob/main/ISO_C%2B%2B_Logo.svg" width="100" height="100">
+<img src="https://github.com/Sherchryst/sherchryst/blob/main/c-original.svg" width="100" height="100">
 
 
 ## mastered tech
