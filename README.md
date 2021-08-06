@@ -67,9 +67,9 @@ Final Score:
 </table>
 
 
-# mastered tech
+## mastered tech
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="100" height="100"> <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="100" height="100"> <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" width="100" height="100"> <img src="https://github.com/Sherchryst/sherchryst/blob/main/c-original.svg" width="100" height="100"> <img src="https://github.com/Sherchryst/sherchryst/blob/main/ISO_C%2B%2B_Logo.svg" width="100" height="100"> <img src="https://github.com/Sherchryst/sherchryst/blob/main/bash-original.svg" width="100" height="100"> <img src="https://github.com/Sherchryst/sherchryst/blob/main/docker-original.svg" width="100" height="100">
+<img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" width="50" height="50"> <img src="https://github.com/Sherchryst/sherchryst/blob/main/c-original.svg" width="50" height="50"> <img src="https://github.com/Sherchryst/sherchryst/blob/main/ISO_C%2B%2B_Logo.svg" width="50" height="50"> <img src="https://github.com/Sherchryst/sherchryst/blob/main/bash-original.svg" width="50" height="50"> <img src="https://github.com/Sherchryst/sherchryst/blob/main/docker-original.svg" width="50" height="50">
 
 
 
