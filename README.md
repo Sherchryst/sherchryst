@@ -57,15 +57,15 @@ Final Score:
     <td>
   
      
-     <img src="/bash-original.svg" width="100" height="100" />
+     <img src="/bash-original.svg">
      
-     <img src="c-original.svg" width="100" height="100" />
+     <img src="c-original.svg">
      
-     <img src="docker-original.svg" width="100" height="100" />
+     <img src="docker-original.svg">
      
-     <img src="kubernetes-plain-wordmark.svg" width="100" height="100" />
+     <img src="kubernetes-plain-wordmark.svg">
      
-     <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="100" height="100" />
+     <img src="ISO_C++_Logo.svg">
      
      
   </td>
