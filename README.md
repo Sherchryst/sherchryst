@@ -2,9 +2,7 @@
 
 | 42's Project | Tech Stack |
 | ------- | ------ |
-| Cub3d
-Final Score:
-[![Sherchryst's Cub3d Score](https://badge42.herokuapp.com/api/project/sgah/cub3d)](https://github.com/sherchryst/cub3d) | <img src="https://github.com/Sherchryst/sherchryst/blob/main/c-original.svg" width="30" height="30"> |
+| Cub3d Final Score: [![Sherchryst's Cub3d Score](https://badge42.herokuapp.com/api/project/sgah/cub3d)](https://github.com/sherchryst/cub3d) | <img src="https://github.com/Sherchryst/sherchryst/blob/main/c-original.svg" width="30" height="30"> |
 | [Philosophers] | ![Philosophers score](https://badge42.herokuapp.com/api/project/lucocozz/Philosophers) |
 | [fract-ol] | ![fract-ol score](https://badge42.herokuapp.com/api/project/lucocozz/fract-ol) |
 | [minitalk] | ![minitalk score](https://badge42.herokuapp.com/api/project/lucocozz/minitalk) |
