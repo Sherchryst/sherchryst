@@ -57,13 +57,13 @@ Final Score:
     <td>
   
      
-     <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="100" height="100" />
+     <img src="bash-original.svg" width="100" height="100" />
      
-     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="100" height="100" />
+     <img src="c-original.svg" width="100" height="100" />
      
-     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="100" height="100" />
+     <img src="docker-original.svg" width="100" height="100" />
      
-     <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" width="100" height="100" />
+     <img src="kubernetes-plain-wordmark.svg" width="100" height="100" />
      
      <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="100" height="100" />
      
