@@ -57,7 +57,7 @@ Final Score:
     <td>
   
      
-     <img src="/bash-original.svg">
+     ![](bash-original.svg)
      
      <img src="c-original.svg">
      
