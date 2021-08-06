@@ -13,6 +13,10 @@
 Cub3d
 Final Score:
 [![Sherchryst's Cub3d Score](https://badge42.herokuapp.com/api/project/sgah/cub3d)](https://github.com/sherchryst/cub3d)
+     
+Piscine CPP
+Final Score:
+[![Sherchryst's Piscine CPP Score](https://badge42.herokuapp.com/api/project/sgah/cpp-module-08)](https://github.com/sherchryst/cub3d)
          
 MiniShell
 Final Score:
