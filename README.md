@@ -5,7 +5,6 @@
  <col width="40px" />
  <tr>
     <td><b style="font-size:30px">My 42's Projects:</b></td>
-    <td><b style="font-size:30px">Tech Stack</b></td>
  </tr>
  <tr>
     <td>
@@ -54,21 +53,7 @@ Final Score:
 Libft
 Final Score:
 [![Sherchryst's libft Score](https://badge42.herokuapp.com/api/project/sgah/Libft)](https://github.com/sherchryst/libft)</td>
-    <td>
-  
-     
-     ![](/bash-original.svg)
-     
-     <img src="c-original.svg">
-     
-     <img src="docker-original.svg">
-     
-     <img src="kubernetes-plain-wordmark.svg">
-     
-     <img src="ISO_C++_Logo.svg">
-     
-     
-  </td>
+
  </tr>
 </table>
 
