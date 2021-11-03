@@ -15,10 +15,7 @@
 | Get_next_line Final Score: [![Sherchryst's get_next_line Score](https://badge42.herokuapp.com/api/project/sgah/get_next_line)](https://github.com/sherchryst/get_next_line) | <img src="https://github.com/Sherchryst/sherchryst/blob/main/c-original.svg" width="30" height="30"> <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-plain.svg" width="30" height="30"> |
 | Libft Final Score: [![Sherchryst's libft Score](https://badge42.herokuapp.com/api/project/sgah/Libft)](https://github.com/sherchryst/libft) | <img src="https://github.com/Sherchryst/sherchryst/blob/main/c-original.svg" width="30" height="30"> <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-plain.svg" width="30" height="30"> |
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sherchryst&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sherchryst&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=sherchryst&rank=SECRET,SSS,SS,S,AAA,AA,A&theme=radical&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Mastered tech
 
