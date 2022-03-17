@@ -1,3 +1,12 @@
+
+## Mastered tech
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="80" height="80"> <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="80" height="80"> <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" width="80" height="80"> <img src="https://github.com/Sherchryst/sherchryst/blob/main/c-original.svg" width="80" height="80"> <img src="https://github.com/Sherchryst/sherchryst/blob/main/ISO_C%2B%2B_Logo.svg" width="80" height="80"> <img src="https://github.com/Sherchryst/sherchryst/blob/main/bash-original.svg" width="80" height="80"> <img src="https://github.com/Sherchryst/sherchryst/blob/main/docker-original.svg" width="80" height="80">
+
+
+
+
+<!--
 [![Sherchryst's 42 stats](https://badge42.herokuapp.com/api/stats/sgah?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
 
 | 42's Project | Tech used |
@@ -19,14 +28,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sherchryst&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-## Mastered tech
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="80" height="80"> <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="80" height="80"> <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" width="80" height="80"> <img src="https://github.com/Sherchryst/sherchryst/blob/main/c-original.svg" width="80" height="80"> <img src="https://github.com/Sherchryst/sherchryst/blob/main/ISO_C%2B%2B_Logo.svg" width="80" height="80"> <img src="https://github.com/Sherchryst/sherchryst/blob/main/bash-original.svg" width="80" height="80"> <img src="https://github.com/Sherchryst/sherchryst/blob/main/docker-original.svg" width="80" height="80">
-
-
-
-
-<!--
 **Sherchryst/sherchryst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
