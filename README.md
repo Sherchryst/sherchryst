@@ -4,7 +4,7 @@
 
 
 
-[![sgah's 42 stats](https://badge42.vercel.app/api/v2/cl418ovva002509l4evq93y66/stats?cursusId=21&coalitionId=45)](https://github.com/JaeSeoKim/badge42)
+[![sgah's 42 stats](https://badge42.vercel.app/api/v2/cl418ovva002509l4evq93y66/stats?cursusId=21&coalitionId=45)](https://profile.intra.42.fr/users/sgah)
 
 <!-- | 42's Project | Tech used |
 | ------- | ------ |
