@@ -25,11 +25,11 @@
 | Libft Final Score: [![sgah's 42 Libft Score](https://badge42.vercel.app/api/v2/cl418ovva002509l4evq93y66/project/1585163)](https://github.com/sherchryst/libft) | <img src="https://github.com/Sherchryst/sherchryst/blob/main/c-original.svg" width="30" height="30"> <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-plain.svg" width="30" height="30"> |
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sherchryst&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sherchryst&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ## Mastered tech
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="80" height="80"> <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="80" height="80"> <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" width="80" height="80"> <img src="https://github.com/Sherchryst/sherchryst/blob/main/c-original.svg" width="80" height="80"> <img src="https://github.com/Sherchryst/sherchryst/blob/main/ISO_C%2B%2B_Logo.svg" width="80" height="80"> <img src="https://github.com/Sherchryst/sherchryst/blob/main/bash-original.svg" width="80" height="80"> <img src="https://github.com/Sherchryst/sherchryst/blob/main/docker-original.svg" width="80" height="80">
+<img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="80" height="80"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" width="80" height="80"> <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="80" height="80"> <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" width="80" height="80"> <img src="https://github.com/Sherchryst/sherchryst/blob/main/c-original.svg" width="80" height="80"> <img src="https://github.com/Sherchryst/sherchryst/blob/main/ISO_C%2B%2B_Logo.svg" width="80" height="80"> <img src="https://github.com/Sherchryst/sherchryst/blob/main/bash-original.svg" width="80" height="80"> <img src="https://github.com/Sherchryst/sherchryst/blob/main/docker-original.svg" width="80" height="80">
 
 <!--
 
