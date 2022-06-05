@@ -7,7 +7,7 @@
 
 
 
-<!--
+
 [![Sherchryst's 42 stats](https://badge42.herokuapp.com/api/stats/sgah?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
 
 | 42's Project | Tech used |
@@ -27,7 +27,7 @@
 | Get_next_line Final Score: [![Sherchryst's get_next_line Score](https://badge42.herokuapp.com/api/project/sgah/get_next_line)](https://github.com/sherchryst/get_next_line) | <img src="https://github.com/Sherchryst/sherchryst/blob/main/c-original.svg" width="30" height="30"> <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-plain.svg" width="30" height="30"> |
 | Libft Final Score: [![Sherchryst's libft Score](https://badge42.herokuapp.com/api/project/sgah/Libft)](https://github.com/sherchryst/libft) | <img src="https://github.com/Sherchryst/sherchryst/blob/main/c-original.svg" width="30" height="30"> <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-plain.svg" width="30" height="30"> |
 
-
+<!--
 
 **Sherchryst/sherchryst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
