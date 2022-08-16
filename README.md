@@ -4,8 +4,8 @@
 
 
 
-[![sgah's 42 stats](https://badge42.vercel.app/api/v2/cl418ovva002509l4evq93y66/stats?cursusId=21&coalitionId=45)](https://profile.intra.42.fr/users/sgah)
-
+<!-- [![sgah's 42 stats](https://badge42.vercel.app/api/v2/cl418ovva002509l4evq93y66/stats?cursusId=21&coalitionId=45)](https://profile.intra.42.fr/users/sgah)
+-->
 <!-- | 42's Project | Tech used |
 | ------- | ------ |
 | ft_transcendence Final Score: [![sgah's 42 ft_transcendence Score](https://badge42.vercel.app/api/v2/cl418ovva002509l4evq93y66/project/2524654)](https://github.com/sherchryst/ft_transcendence) | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png" width="30" height="30"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" width="30" height="30"> <img src="https://cdn-icons-png.flaticon.com/512/888/888859.png" width="30" height="30"> <img src="https://cdn-icons-png.flaticon.com/512/888/888847.png" width="30" height="30"> <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="30" height="30"> |
